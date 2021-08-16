@@ -17,4 +17,9 @@ According to the angular-domain model, evaluate the Radiation and Reception patt
 - The gain of the desired signal for using different radiation/reception beams
 - The signal-to-interference power ratio(SIR) for using different beams
 - The SIR of multiple input signals(multiple reception directions) with diversity combing(considering fading for the signals and interferences)
-- ...(Any results that can present your work better)
+- ...(Any results that can present your work better)  
+
+## What's ULA?  
+
+
+## 
